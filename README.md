@@ -29,3 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 
 ![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact)
+
+[![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=donut)](https://github.com/caobittencourtferreira/github-readme-stats)
+
