@@ -27,6 +27,6 @@
 ---
 ## 📝 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
+[![Top Langs](https://github-readme-stats-xi-wheat-42.vercel.app/api/top-langs/?username=caobittencourtferreira)](https://github.com/caobittencourtferreira/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caobittencourtferreira)](https://github.com/caobittencourtferreira/github-readme-stats)
-
