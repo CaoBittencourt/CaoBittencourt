@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, My name is Cao!</h1>
 <h3 align="center">I’m a Data Scientist, Award-Winning Economist, and Psychometrician.</h3>
+---
+About Me
+Working on [...]
+Looking to learn Dart and Flutter
 
 ---
-## :hammer_and_wrench: Languages and Tools:
+## :hammer_and_wrench: Languages and Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
