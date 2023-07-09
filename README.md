@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, My name is Cao!</h1>
 <h3 align="center">I’m a Data Scientist, Award-Winning Economist, and Psychometrician.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20160212050515" alt="R" width="40" height="30"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
