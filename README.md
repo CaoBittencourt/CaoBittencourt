@@ -3,7 +3,9 @@
 ---
 ## About Me
 I’m a Data Scientist, Award-Winning Economist, and Psychometrician.
+
 Working on [...]
+
 Looking to learn Dart and Flutter
 
 ---
