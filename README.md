@@ -1,5 +1,4 @@
-# Hi 👋, My name is Cao!
-<h1 align="center">Hi 👋, My name is Cao!</h1>
+<h1 align="center">Hi, my name is Cao!</h1>
 
 ---
 ## 👨‍💼 About Me
