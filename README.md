@@ -12,8 +12,7 @@
 
 ---
 ## :hammer_and_wrench: Languages and Tools
-
-<div align="center">
+<div align>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://vetores.org/d/mariadb.svg" title="MariaDB"  alt="MariaDB" width="120" height="50"/>&nbsp;
