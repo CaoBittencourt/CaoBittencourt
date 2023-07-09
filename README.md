@@ -22,8 +22,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" title="Stata" alt="Stata" width="40" height="40"/>&nbsp;        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
-</div>
+</div> 
 
+---
+## 📝 My Stats
 <p>
   <img 
     align="center"
@@ -31,9 +33,7 @@
     alt="CaoBittencourtFerreira"
     />
   
-</p> 
-
----
-## 📝 My Stats
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
