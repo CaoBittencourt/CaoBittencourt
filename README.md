@@ -24,6 +24,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
 </div>
 
+<p>
+  <img 
+    align="center"
+    src="https://vercel.live/link/github-readme-stats-git-master-caobittencourtferreira.vercel.app?via=deployment-domains-list-branch"
+    alt="CaoBittencourtFerreira"
+    />
+  
+</p> 
+
 ---
 ## 📝 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
