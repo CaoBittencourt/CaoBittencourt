@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Cao!</h1>
 
 ---
-## About Me
+## 👨‍💼 About Me
 🔭 Data Scientist
 
 🏆🥇 Award-Winning Economist
