@@ -27,7 +27,7 @@
 <p>
   <img 
     align="center"
-    src="https://vercel.live/link/github-readme-stats-git-master-caobittencourtferreira.vercel.app?via=deployment-domains-list-branch"
+    src="https://vercel.live/link/github-readme-stats-git-master-caobittencourtferreira.vercel.app?via=deployment-domains-list-branch/api/top-langs?"
     alt="CaoBittencourtFerreira"
     />
   
