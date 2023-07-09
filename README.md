@@ -25,7 +25,6 @@
 </div>
 
 ---
-📝 Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
-
+📝 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
