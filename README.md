@@ -7,7 +7,7 @@
   <img src="https://vetores.org/d/mariadb.svg" title="MariaDB"  alt="MariaDB" width="120" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="50" height="50"/ />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="100" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="120" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" title="stata" alt="stata" width="50" height="50"/>&nbsp;
   
   
