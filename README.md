@@ -26,6 +26,8 @@
 
 ---
 ## 📝 My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caobittencourtferreira)](https://github.com/caobittencourtferreira/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
+
 <p><img align="center" src="https://vercel.live/link/github-readme-stats-git-master-caobittencourtferreira.vercel.app?via=deployment-domains-list-branch/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
