@@ -1,19 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, My name is Cao!</h1>
+<h3 align="center">I’m a Data Scientist, Award-Winning Economist, and Psychometrician.</h3>
 
-<!--
-**CaoBittencourtFerreira/CaoBittencourtFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me at LinkedIn:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/caobittencourtferreira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caobittencourtferreira/" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoBittencourtFerreira&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=CaoBittencourtFerreira'>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
