@@ -26,5 +26,12 @@
 
 ---
 ## 📝 My Stats
+<a href="https://github.com/caobittencourtferreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caobittencourtferreira&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/caobittencourtferreira/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caobittencourtferreira&repo=convoychat" />
+</a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
