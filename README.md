@@ -11,7 +11,7 @@
 🎯 Looking to learn Dart and Flutter
 
 ---
-## :hammer_and_wrench: Languages and Tools
+## 🛠️ Languages and Tools
 <div align>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -25,6 +25,6 @@
 </div>
 
 ---
-📝 My Stats
+## 📝 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
