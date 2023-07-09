@@ -2,7 +2,7 @@
 
 ---
 ## About Me
-I’m a Data Scientist, Award-Winning Economist, and Psychometrician.
+I’m a 🔭 Data Scientist, 🏆🥇 Award-Winning Economist, and 👨‍🔬 Psychometrician.
 
 Working on [...]
 
