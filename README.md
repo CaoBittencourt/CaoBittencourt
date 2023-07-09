@@ -2,9 +2,9 @@
 
 ---
 ## 👨‍💼 About Me
-🔭 Data Scientist
+📊 Data Scientist
 
-🏆🥇 Award-Winning Economist
+🏆 Award-Winning Economist💲
 
 👨‍🔬 Psychometrician
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>
 </div>
 
+---
+📊📝 Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caobittencourtferreira&show_icons=true&locale=en&layout=compact" alt="caobittencourtferreira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
