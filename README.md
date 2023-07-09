@@ -2,11 +2,10 @@
 
 ---
 ## About Me
-I’m a 🔭 Data Scientist, 🏆🥇 Award-Winning Economist, and 👨‍🔬 Psychometrician.
-
-Working on [...]
-
-Looking to learn Dart and Flutter
+🔭 Data Scientist
+🏆🥇 Award-Winning Economist
+👨‍🔬 Psychometrician
+🎯 Looking to learn Dart and Flutter
 
 ---
 ## :hammer_and_wrench: Languages and Tools
