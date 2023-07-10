@@ -44,7 +44,11 @@
 </div> 
 
 ---
-# 📝 My Stats
+# 📈 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 
 ![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact)
+
+---
+# 📝 My Résumé
+<embed src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.pdf" type="application/pdf" />
