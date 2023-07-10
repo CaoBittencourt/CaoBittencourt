@@ -12,7 +12,13 @@
 ---
 # 🏆 Honors and Awards
 
-<table cellpadding="0" cellspacing="0" border="0">
+<style>
+  table, td, th {
+    border: none!important;
+  }
+</style>
+
+<table cellpadding="0" cellspacing="0" borders="0">
   <thead>
     <td>
     This is my award plaque from the Minister Ernane Galvêas Award for Best Undergraduate Thesis. In this competition, I got first place and I also won a grand prize of R$10,000.00.
