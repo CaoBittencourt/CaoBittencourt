@@ -8,7 +8,7 @@
 🎯 Looking to learn Dart and Flutter
 
 ---
-# 🏆 Honors and Awards
+# 🥇 Honors and Awards
 <table>
 <!-- <table style="border-collapse: collapse; border: none;"> -->
   <thead>
