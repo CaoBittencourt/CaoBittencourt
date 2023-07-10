@@ -23,7 +23,7 @@
     </td>
     <td>
     <!-- <td style="border: none;"> -->
-    <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="300" length="300"/>
+    <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="500" length="500"/>
     </td>
   <tbody>
 </table>
