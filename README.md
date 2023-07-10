@@ -11,17 +11,18 @@
 
 ---
 # 🏆 Honors and Awards
-<table>
+<table cellspacing="0" cellpadding="0">
   <thead>
     <!-- <td style="border: 0"> -->
-    <td style="border: 0;">
+    <td>
     This is my award plaque from the Minister Ernane Galvêas Award for Best Undergraduate Thesis. In this competition, I got first place and I also won a grand prize of R$10,000.00.
     <br>
     In my 84 page long thesis (which is annexed on LinkedIn if you'd like to read it), I estimate 4 household equivalence scales based on Brazilian Household Budget Surveys POFs 2002-2003 and 2008-2009 in order to calculate the Brazilian cost of living and child costs in Brazil for families of varied income levels.
     </br>
-    <td style="border: 0">
+    </td>
+    <td>
     <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="300" length="300"/>
-    <!-- </td> -->
+    </td>
   <tbody>
 </table>
 
