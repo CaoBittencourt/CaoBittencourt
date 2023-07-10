@@ -20,7 +20,7 @@
     </td>
     <td>
     <!-- <td style="border: none;"> -->
-    <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="500" length="500"/>
+    <img src="https://www.linkedin.com/in/caobittencourtferreira/overlay/1635529712104/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" width="500" length="500"/>
     </td>
   <tbody>
 </table>
