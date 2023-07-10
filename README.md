@@ -1,4 +1,4 @@
-<img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Banner_CaoBittencourtFerreira22.png?raw=true"/>
+<h1 align="center">Hi, my name is Cao!</h1>
 
 # 👨‍💼 About Me
 📊 Data Scientist
@@ -29,5 +29,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 
 ![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact)
-
-<h1 align="center">Hi, my name is Cao!</h1>
