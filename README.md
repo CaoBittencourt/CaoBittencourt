@@ -1,8 +1,9 @@
 <style>
-  table, td, th {
+  td, th {
     border: none!important;
   }
 </style>
+
 <h1 align="center">Hi, my name is Cao!</h1>
 
 # 👨‍💼 About Me
