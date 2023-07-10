@@ -1,16 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid white;
-}
-blockquote {
-    border-left: solid white;
-    padding-left: 10px;
-}
-</style>
-
 <h1 align="center">Hi, my name is Cao!</h1>
 
 # 👨‍💼 About Me
@@ -25,14 +12,17 @@ blockquote {
 ---
 # 🏆 Honors and Awards
 <table>
-<!-- <table cellpadding="0" cellspacing="0" borders="0"> -->
   <thead>
-    <td>
+    <td style="border: 0">
+    <!-- <td style="border: 0;"> -->
     This is my award plaque from the Minister Ernane Galvêas Award for Best Undergraduate Thesis. In this competition, I got first place and I also won a grand prize of R$10,000.00.
+    </td>
     <br>
     In my 84 page long thesis (which is annexed on LinkedIn if you'd like to read it), I estimate 4 household equivalence scales based on Brazilian Household Budget Surveys POFs 2002-2003 and 2008-2009 in order to calculate the Brazilian cost of living and child costs in Brazil for families of varied income levels.
     </br>
-    <td><img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="300" length="300"/>
+    <td style="border: 0">
+    <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="300" length="300"/>
+    </td>
   <tbody>
 </table>
 
