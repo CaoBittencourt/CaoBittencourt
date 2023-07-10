@@ -1,3 +1,5 @@
+<img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Banner_CaoBittencourtFerreira22.png?raw=true"/>
+
 <h1 align="center">Hi, my name is Cao!</h1>
 
 ## 👨‍💼 About Me
