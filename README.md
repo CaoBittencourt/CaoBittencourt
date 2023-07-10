@@ -52,5 +52,5 @@
 ---
 # 📝 My Résumé
 <a target="_blank" href="https://www.linkedin.com/in/caobittencourtferreira/overlay/1635530782262/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg">
-  <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.png" widht="500" height="500"/>
+  <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.png" widht="400" height="400"/>
 </a>
