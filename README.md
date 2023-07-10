@@ -1,8 +1,6 @@
 <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Banner_CaoBittencourtFerreira22.png?raw=true"/>
 
-<h1 align="center">Hi, my name is Cao!</h1>
-
-## 👨‍💼 About Me
+# 👨‍💼 About Me
 📊 Data Scientist
 
 🏆 Award-Winning Economist💲
@@ -12,7 +10,7 @@
 🎯 Looking to learn Dart and Flutter
 
 ---
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 <div align>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/580e9bada770756d25dbd3696159744d1e9c9251/SVG/tidyverse.svg" title="Tidyverse" alt="Tidyverse" width="40" height="40"/>&nbsp;
@@ -27,7 +25,9 @@
 </div> 
 
 ---
-## 📝 My Stats
+# 📝 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 
 ![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact)
+
+<h1 align="center">Hi, my name is Cao!</h1>
