@@ -51,4 +51,6 @@
 
 ---
 # 📝 My Résumé
-<embed src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.pdf" type="application/pdf" />
+<a target="_blank" href="">
+  <img src="" widht="500" height="500"/>
+</a>
