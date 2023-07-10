@@ -1,3 +1,8 @@
+<style>
+  table, td, th {
+    border: none!important;
+  }
+</style>
 <h1 align="center">Hi, my name is Cao!</h1>
 
 # 👨‍💼 About Me
@@ -11,13 +16,6 @@
 
 ---
 # 🏆 Honors and Awards
-
-<style>
-  table, td, th {
-    border: none!important;
-  }
-</style>
-
 <table cellpadding="0" cellspacing="0" borders="0">
   <thead>
     <td>
