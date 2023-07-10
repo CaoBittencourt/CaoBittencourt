@@ -1,7 +1,14 @@
 <style>
-  td, th {
-    border: none!important;
-  }
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid white;
+}
+blockquote {
+    border-left: solid white;
+    padding-left: 10px;
+}
 </style>
 
 <h1 align="center">Hi, my name is Cao!</h1>
