@@ -10,6 +10,21 @@
 🎯 Looking to learn Dart and Flutter
 
 ---
+# 🏆 Honors and Awards
+<table>
+  <thead>
+    <tr>
+    <th>
+    <th>
+  <tbody>
+    <tr>
+    <th>dsds
+    <td>lalala
+</table>
+
+
+
+---
 # 🛠️ Languages and Tools
 <div align>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
