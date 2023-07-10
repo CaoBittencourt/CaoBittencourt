@@ -3,11 +3,8 @@
 ---
 # 👨‍💼 About Me
 📊 Data Scientist
-
 🏆 Award-Winning Economist💲
-
 👨‍🔬 Psychometrician
-
 🎯 Looking to learn Dart and Flutter
 
 ---
