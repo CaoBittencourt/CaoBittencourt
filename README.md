@@ -13,13 +13,12 @@
 # 🏆 Honors and Awards
 <table>
   <thead>
-    <tr>
-    <th>
-    <th>
+    <td>
+    <td>
+    This is my award plaque from the Minister Ernane Galvêas Award for Best Undergraduate Thesis. In this competition, I got first place and I also won a grand prize of R$10,000.00.
+    
+    In my 84 page long thesis (which is annexed on LinkedIn if you'd like to read it), I estimate 4 household equivalence scales based on Brazilian Household Budget Surveys POFs 2002-2003 and 2008-2009 in order to calculate the Brazilian cost of living and child costs in Brazil for families of varied income levels.
   <tbody>
-    <tr>
-    <th>dsds
-    <td>lalala
 </table>
 
 
