@@ -49,6 +49,8 @@
 # 📈 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 
+<img align="center" src="https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact"/>
+
 ![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact)
 
 ---
