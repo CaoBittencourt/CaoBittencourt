@@ -49,10 +49,6 @@
 # 📈 My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
 
-<img align="center" src="https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact"/>
-
-<!---![Top Langs](https://github-readme-stats-caobittencourtferreira.vercel.app/api/top-langs/?username=caobittencourtferreira&layout=compact)--->
-
 ---
 # 📝 My Résumé
 <a href="https://www.linkedin.com/in/caobittencourtferreira/overlay/1635530782262/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
