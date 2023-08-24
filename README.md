@@ -4,7 +4,7 @@
 # 👨‍💼 About Me
 📊 Statistician
 
-🏆 Award-Winning Economist💲
+🏆 Award-Winning Economist
 
 👨‍🔬 Psychometrician
 
