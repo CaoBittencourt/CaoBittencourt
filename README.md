@@ -2,7 +2,7 @@
 
 ---
 # 👨‍💼 About Me
-📊 Data Scientist
+📊 Statistician
 
 🏆 Award-Winning Economist💲
 
