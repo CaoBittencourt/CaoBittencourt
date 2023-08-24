@@ -47,10 +47,10 @@
 
 ---
 # 📈 My Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourtferreira&" alt="caobittencourtferreira" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourt&" alt="caobittencourt" /></p>
 
 ---
 # 📝 My Résumé
-<a href="https://www.linkedin.com/in/caobittencourtferreira/overlay/1635530782262/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
-  <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.png" widht="400" height="400"/>
+<a href="https://www.linkedin.com/in/caobittencourt/overlay/1635530782262/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
+  <img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.png" widht="400" height="400"/>
 </a>
