@@ -19,12 +19,12 @@
     <!-- <td style="border: none;"> -->
     This is my award plaque from the Minister Ernane Galvêas Award for Best Undergraduate Thesis. In this competition, I got first place and I also won a grand prize of R$10,000.00.
     <br></br>
-    In my 84 page long thesis (which is annexed on <a href="https://www.linkedin.com/in/caobittencourtferreira/overlay/1635478238095/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg"> LinkedIn</a> if you'd like to read it), I estimate 4 household equivalence scales based on Brazilian Household Budget Surveys POFs 2002-2003 and 2008-2009 in order to calculate the Brazilian cost of living and child costs in Brazil for families of varied income levels.
+    In my 84 page long thesis (which is annexed on <a href="https://www.linkedin.com/in/caobittencourt/overlay/1635478238095/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg"> LinkedIn</a> if you'd like to read it), I estimate 4 household equivalence scales based on Brazilian Household Budget Surveys POFs 2002-2003 and 2008-2009 in order to calculate the Brazilian cost of living and child costs in Brazil for families of varied income levels.
     </td>
     <td>
     <!-- <td style="border: none;"> -->
-    <a href="https://www.linkedin.com/in/caobittencourtferreira/overlay/1635529712104/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
-    <img src="https://github.com/CaoBittencourtFerreira/CaoBittencourtFerreira/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="500" length="500"/>
+    <a href="https://www.linkedin.com/in/caobittencourt/overlay/1635529712104/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
+    <img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="500" length="500"/>
     </a>
     </td>
   <tbody>
@@ -51,6 +51,6 @@
 
 ---
 # 📝 My Résumé
-<a href="https://www.linkedin.com/in/caobittencourt/overlay/1635530782262/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
-  <img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Curriculum_CaoBittencourtFerreira_English_2023.png" widht="400" height="400"/>
+<a href="https://www.linkedin.com/in/caobittencourt/overlay/1635538547186/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
+  <img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Resume_CaoBittencourt_2023.png" widht="400" height="400"/>
 </a>
