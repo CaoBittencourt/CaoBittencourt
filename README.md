@@ -51,6 +51,6 @@
 
 ---
 # 📝 My Résumé
-<a href="https://www.linkedin.com/in/caobittencourt/overlay/1635538547186/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
+<a href="https://www.linkedin.com/in/caobittencourt/overlay/1635541116147/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
   <img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Resume_CaoBittencourt_2023.png" widht="400" height="400"/>
 </a>
