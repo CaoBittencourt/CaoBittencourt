@@ -8,7 +8,7 @@
 
 👨‍🔬 Psychometrician
 
-🎯 Looking to learn Dart and Flutter
+🎯 Learning Dart and Flutter
 
 ---
 # 🥇 Honors and Awards
