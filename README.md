@@ -1,17 +1,20 @@
 <h1 align="center">Hi, my name is Cao!</h1>
 
----
-# 👨‍💼 About Me
-📊 Statistician
+I bring together full-stack software engineering and advanced applied mathematics to deliver end-to-end high-performance data applications.
 
-🏆 Award-Winning Economist
+With a unique background as an Award-Winning Economist, Head of Quantitative Research and Principal Software Engineer, I have a proven track record of both constructing innovative data-driven solutions to real-world problems and then making them accessible to clients via beautiful and easy-to-use full-stack cross-platform apps.
 
-👨‍🔬 Psychometrician
+Over my 5+ year career, I have invented and programmed 67 statistical models and coefficients, demonstrated complex mathematical theorems, built high-performance mobile applications from scratch and provided consultancy for Fortune 500 companies.
 
-🎯 Learning Dart and Flutter
+🛠️ Truly Full-Stack
+I don't just write code; I also design the statistical and economic models behind it. Thus, I own the entire product cycle (from mathematical modeling, to writing C++ libraries, then back-end and front-end as well).
 
----
-# 🥇 Honors and Awards
+📊 Big Data & Analytics
+Experience organizing and analyzing huge tables of financial records from very high-profile companies and transforming raw data into multi-million dollar cost reductions.
+
+🏆 Academic Excellence
+Winner of the Minister Ernane Galvêas Award for Best Undergraduate Thesis (a R$10,000.00 prize) at Getulio Vargas Foundation (EPGE, FGV-RJ) and unanimously recognized for my academic performance ("not only the best, but the best by far", to quote the evaluating committee). I have also had ample technical writing experience after university as Lead Applied Mathematician proving theorems in Behavioral Labor Economics.
+
 <table>
 <!-- <table style="border-collapse: collapse; border: none;"> -->
   <thead>
@@ -30,27 +33,5 @@
   <tbody>
 </table>
 
----
-# 🛠️ Languages and Tools
-<div align>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/580e9bada770756d25dbd3696159744d1e9c9251/SVG/tidyverse.svg" title="Tidyverse" alt="Tidyverse" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://vetores.org/d/mariadb.svg" title="MariaDB"  alt="MariaDB" width="120" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/ />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" title="Stata" alt="Stata" width="40" height="40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
-</div> 
-
----
-# 📈 My Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caobittencourt&" alt="caobittencourt" /></p>
-
----
-# 📝 My Résumé
-<a href="https://www.linkedin.com/in/caobittencourt/overlay/1635541116147/single-media-viewer/?profileId=ACoAADDeilsBjjXHYGA9V020GfIYm-Y42f9kAbg" target="_blank">
-  <img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Resume_CaoBittencourt_2023.png" widht="400" height="400"/>
-</a>
+📬 Contact
+Whether you want to chat about mathematics and software architecture, schedule a data consultancy session, or discuss outsourcing your application's development, you can send me a private message on LinkedIn or an email to caobittencourt@gmail.com.
