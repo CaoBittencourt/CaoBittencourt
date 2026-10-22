@@ -13,6 +13,8 @@ Experience organizing and analyzing huge tables of financial records from very h
 # 🏆 Academic Excellence
 Winner of the Minister Ernane Galvêas Award for Best Undergraduate Thesis (a R$10,000.00 prize) at Getulio Vargas Foundation (EPGE, FGV-RJ) and unanimously recognized for my academic performance ("not only the best, but the best by far", to quote the evaluating committee). I have also had ample technical writing experience after university as Lead Applied Mathematician proving theorems in Behavioral Labor Economics.
 
+<img src="https://github.com/CaoBittencourt/CaoBittencourt/blob/main/Pr%C3%AAmio_Ministro_Ernane_Galv%C3%AAas.png" width="500" length="500"/>
+
 <table>
 <!-- <table style="border-collapse: collapse; border: none;"> -->
   <thead>
